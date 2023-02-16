@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Danger
+  - Cursor
+  - OrangePortal
+  - FinalGoal
+  - YellowPortal
+  - Goal
+  - Light
+  - Quit
+  - Play
+  - Options
+  - Ground
+  - Ladder
   layers:
   - Default
   - TransparentFX
@@ -40,4 +52,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 470518013
+    locked: 0
+  - name: Player
+    uniqueID: 3547779853
+    locked: 0
+  - name: Buttons
+    uniqueID: 3689458973
+    locked: 0
+  - name: Letters
+    uniqueID: 4150956055
+    locked: 0
+  - name: Cursor
+    uniqueID: 795473299
+    locked: 0
+  - name: Transition Square
+    uniqueID: 3871425649
     locked: 0

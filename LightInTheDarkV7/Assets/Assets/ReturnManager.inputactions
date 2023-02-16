@@ -1,0 +1,55 @@
+{
+    "name": "ReturnManager",
+    "maps": [
+        {
+            "name": "ReturnMap",
+            "id": "aadbbb52-34ef-4df2-8c9d-cd5a6aeba08e",
+            "actions": [
+                {
+                    "name": "Return",
+                    "type": "Button",
+                    "id": "413948d2-b036-4aaa-9f4f-0d2513c78fd1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0aa0923a-f18c-452a-9309-aefa6b639530",
+                    "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Return",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "59bab853-f97d-42d5-95a8-22ffd0730b03",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Return",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ad02b470-c445-4f07-aba9-ac8b52f60bf9",
+                    "path": "<Keyboard>/b",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Return",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
