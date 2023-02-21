@@ -1797,3 +1797,82 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 674.074526 seconds.
+  path: Assets/Assets/Scenes/RealLevel1.unity
+  artifactKey: Guid(f14ac67f3684d4ec1806d944f7915c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scenes/RealLevel1.unity using Guid(f14ac67f3684d4ec1806d944f7915c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7994ed584b21faf452972873c31684e9') in 0.136972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.664695 seconds.
+  path: Assets/Assets/Scenes/RealLevel2.unity
+  artifactKey: Guid(89e3d993a0fde4b3480466b5cef0e3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scenes/RealLevel2.unity using Guid(89e3d993a0fde4b3480466b5cef0e3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa04b1f59c86b604e6cb69e1c5020c6') in 0.006663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.565548 seconds.
+  path: Assets/Assets/Scenes/RealLevel3.unity
+  artifactKey: Guid(e51b8a2d9698b47d3b4f6cbdf0a0502a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scenes/RealLevel3.unity using Guid(e51b8a2d9698b47d3b4f6cbdf0a0502a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229c4f1c695189038a78476d5dd3b593') in 0.005304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.596336 seconds.
+  path: Assets/Assets/Scenes/RealLevel4.unity
+  artifactKey: Guid(e176842948390470ba9ea2b7fadf89b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scenes/RealLevel4.unity using Guid(e176842948390470ba9ea2b7fadf89b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d4c8499710b62db3271a25865def99') in 0.002852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.088540 seconds.
+  path: Assets/Assets/Scenes/RealLevel5.unity
+  artifactKey: Guid(2b09ace36cc0b4491befcf003c6e7c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scenes/RealLevel5.unity using Guid(2b09ace36cc0b4491befcf003c6e7c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69cb4b0a39442c685d755e3bce050d0e') in 0.003144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.232702 seconds.
+  path: Assets/Assets/Scenes/RealLevel6.unity
+  artifactKey: Guid(5a7ac534f13794ff6b63190213f634c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scenes/RealLevel6.unity using Guid(5a7ac534f13794ff6b63190213f634c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650ed41f0b984173a7d1685060cd5924') in 0.005642 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.015936 seconds.
+  path: Assets/Assets/Scenes/RealLevel7.unity
+  artifactKey: Guid(c9eee2f236b9d4db582ced7741578186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scenes/RealLevel7.unity using Guid(c9eee2f236b9d4db582ced7741578186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '940df40ca58b946fe520d5b980883124') in 0.003720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.952212 seconds.
+  path: Assets/Assets/Scenes/RealLevel9.unity
+  artifactKey: Guid(0717c467084694b42819b4344cab39e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scenes/RealLevel9.unity using Guid(0717c467084694b42819b4344cab39e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37989bf0e9a51e852367fd00049b87e3') in 0.005757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 116745.186824 seconds.
+  path: Assets/Assets/Options.unity
+  artifactKey: Guid(46da7662be4bd4d67abb350c3f8bbdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Options.unity using Guid(46da7662be4bd4d67abb350c3f8bbdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5390c73d6675a2268f0774361ee9b246') in 0.073896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 67.995364 seconds.
+  path: Assets/Assets/Cursor.inputactions
+  artifactKey: Guid(2cb184c2637424ddf84051fad82f0efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Cursor.inputactions using Guid(2cb184c2637424ddf84051fad82f0efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53de1443101fea7ce347717ea5191637') in 8.522116 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 342.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 42 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (0.7 MB). Loaded Objects now: 4743.
+Memory consumption went from 110.8 MB to 110.1 MB.
+Total: 1112.728611 ms (FindLiveObjects: 2.077666 ms CreateObjectMapping: 0.278722 ms MarkObjects: 1108.392364 ms  DeleteObjects: 1.976688 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

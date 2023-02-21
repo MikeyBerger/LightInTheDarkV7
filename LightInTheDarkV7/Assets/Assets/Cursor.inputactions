@@ -11,7 +11,8 @@
                     "id": "5045e293-1a1a-4b6d-9bc3-591ce5a3bc8b",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Press",
@@ -19,7 +20,8 @@
                     "id": "13f65665-5e76-470a-8f57-ad7d679280c9",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Delete",
@@ -27,7 +29,8 @@
                     "id": "4dd3ebea-95a8-4a12-ba59-b0ed51e204ab",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -211,6 +214,17 @@
                     "name": "",
                     "id": "f59763e2-cead-4841-bced-501701747772",
                     "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Delete",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "37a515e3-b23d-47bc-af44-5a658925c275",
+                    "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
