@@ -3,7 +3,7 @@
     {
       "type": "il2cppData",
       "msg": {
-        "build_event_id": "a81c090cdbb3e471786ae6511dff98dd",
+        "build_event_id": "b753773cb7d604554acb5754279b5450",
         "node_executed": true,
         "attribute_total_count_eager_static_constructor": 9,
         "attribute_total_count_set_option": 0,
@@ -40,109 +40,109 @@
     {
       "type": "playerBuildTimingData",
       "msg": {
-        "build_event_id": "a81c090cdbb3e471786ae6511dff98dd",
-        "build_player": 1187076,
-        "preprocess_player": 961,
-        "produce_player_script_assemblies": 64986,
-        "build_scripts_dlls": 643,
-        "writing_asset_files": 5824,
-        "postprocess_built_player": 1073736,
+        "build_event_id": "b753773cb7d604554acb5754279b5450",
+        "build_player": 1340423,
+        "preprocess_player": 689,
+        "produce_player_script_assemblies": 89553,
+        "build_scripts_dlls": 519,
+        "writing_asset_files": 720,
+        "postprocess_built_player": 1236556,
         "node_summary_table": [
           {
             "name": "Csc",
-            "duration": 5840
+            "duration": 7702
           },
           {
             "name": "Csc",
-            "duration": 3056
+            "duration": 16713
           },
           {
             "name": "Csc",
-            "duration": 2143
+            "duration": 5076
           },
           {
             "name": "Csc",
-            "duration": 8277
+            "duration": 8406
           },
           {
             "name": "Csc",
-            "duration": 1314
+            "duration": 2488
           },
           {
             "name": "Csc",
-            "duration": 5427
+            "duration": 1460
           },
           {
             "name": "Csc",
-            "duration": 831
+            "duration": 6844
           },
           {
             "name": "Csc",
-            "duration": 16973
+            "duration": 4990
           },
           {
             "name": "Csc",
-            "duration": 856
+            "duration": 6593
           },
           {
             "name": "Csc",
-            "duration": 4009
+            "duration": 9152
           },
           {
             "name": "Csc",
-            "duration": 1206
+            "duration": 1479
           },
           {
             "name": "Csc",
-            "duration": 1453
+            "duration": 1235
           },
           {
             "name": "Csc",
-            "duration": 6862
+            "duration": 6745
           },
           {
             "name": "Csc",
-            "duration": 1866
+            "duration": 24607
           },
           {
             "name": "Csc",
-            "duration": 3416
+            "duration": 869
           },
           {
             "name": "Csc",
-            "duration": 6935
+            "duration": 5485
           },
           {
             "name": "Csc",
-            "duration": 11030
+            "duration": 2044
           },
           {
             "name": "Csc",
-            "duration": 4033
+            "duration": 1523
           },
           {
             "name": "Csc",
-            "duration": 664
+            "duration": 690
           },
           {
             "name": "Csc",
-            "duration": 1712
+            "duration": 7243
           },
           {
             "name": "Csc",
-            "duration": 1317
+            "duration": 1572
           },
           {
             "name": "Csc",
-            "duration": 1743
+            "duration": 1187
           },
           {
             "name": "Csc",
-            "duration": 582
+            "duration": 2644
           },
           {
             "name": "Csc",
-            "duration": 964
+            "duration": 2299
           }
         ]
       },
@@ -151,7 +151,7 @@
     {
       "type": "unityLinkerData",
       "msg": {
-        "build_event_id": "a81c090cdbb3e471786ae6511dff98dd",
+        "build_event_id": "b753773cb7d604554acb5754279b5450",
         "node_executed": true,
         "attribute_marked_count_always_link_assembly": 0,
         "attribute_swept_count_always_link_assembly": 0,
@@ -184,8 +184,8 @@
         "unresolved_stubbing_missing_abstract_class_method_count": 0,
         "unresolved_stubbing_missing_type_count": 0,
         "unresolved_stubbing_missing_method_count": 0,
-        "unrecognized_reflection_access_total_count": 228,
-        "unrecognized_reflection_access_core_count": 159,
+        "unrecognized_reflection_access_total_count": 226,
+        "unrecognized_reflection_access_core_count": 157,
         "unrecognized_reflection_access_unity_count": 69,
         "unrecognized_reflection_access_user_count": 0,
         "recognized_reflection_access_total_count": 30,
