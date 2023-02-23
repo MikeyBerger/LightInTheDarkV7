@@ -3,7 +3,7 @@
     {
       "type": "il2cppData",
       "msg": {
-        "build_event_id": "7323725dbb980445bb943747100c2ec5",
+        "build_event_id": "b9bcbe34fb3c04f9ea27e1c898de4385",
         "node_executed": true,
         "attribute_total_count_eager_static_constructor": 9,
         "attribute_total_count_set_option": 0,
@@ -40,49 +40,73 @@
     {
       "type": "playerBuildTimingData",
       "msg": {
-        "build_event_id": "7323725dbb980445bb943747100c2ec5",
-        "build_player": 1774690,
-        "preprocess_player": 1312,
-        "produce_player_script_assemblies": 137106,
-        "build_scripts_dlls": 590,
-        "writing_asset_files": 1179,
-        "postprocess_built_player": 1613826,
+        "build_event_id": "b9bcbe34fb3c04f9ea27e1c898de4385",
+        "build_player": 1368042,
+        "preprocess_player": 223,
+        "produce_player_script_assemblies": 72261,
+        "build_scripts_dlls": 348,
+        "writing_asset_files": 574,
+        "postprocess_built_player": 1283623,
         "node_summary_table": [
           {
             "name": "Csc",
-            "duration": 19523
+            "duration": 7444
           },
           {
             "name": "Csc",
-            "duration": 21941
+            "duration": 11124
           },
           {
             "name": "Csc",
-            "duration": 6653
+            "duration": 3476
           },
           {
             "name": "Csc",
-            "duration": 7931
+            "duration": 3366
           },
           {
             "name": "Csc",
-            "duration": 1788
+            "duration": 1844
           },
           {
             "name": "Csc",
-            "duration": 30021
+            "duration": 16021
           },
           {
             "name": "Csc",
-            "duration": 1489
+            "duration": 1045
           },
           {
             "name": "Csc",
-            "duration": 6823
+            "duration": 3414
           },
           {
             "name": "Csc",
-            "duration": 1037
+            "duration": 809
+          },
+          {
+            "name": "Csc",
+            "duration": 7411
+          },
+          {
+            "name": "Csc",
+            "duration": 5189
+          },
+          {
+            "name": "Csc",
+            "duration": 3195
+          },
+          {
+            "name": "Csc",
+            "duration": 4583
+          },
+          {
+            "name": "Csc",
+            "duration": 738
+          },
+          {
+            "name": "Csc",
+            "duration": 648
           },
           {
             "name": "Csc",
@@ -90,59 +114,35 @@
           },
           {
             "name": "Csc",
-            "duration": 20930
+            "duration": 858
           },
           {
             "name": "Csc",
-            "duration": 985
+            "duration": 648
           },
           {
             "name": "Csc",
-            "duration": 2811
+            "duration": 2064
           },
           {
             "name": "Csc",
-            "duration": 995
+            "duration": 993
           },
           {
             "name": "Csc",
-            "duration": 1919
+            "duration": 7458
           },
           {
             "name": "Csc",
-            "duration": 18438
+            "duration": 2492
           },
           {
             "name": "Csc",
-            "duration": 6003
+            "duration": 934
           },
           {
             "name": "Csc",
-            "duration": 5524
-          },
-          {
-            "name": "Csc",
-            "duration": 10966
-          },
-          {
-            "name": "Csc",
-            "duration": 1217
-          },
-          {
-            "name": "Csc",
-            "duration": 1622
-          },
-          {
-            "name": "Csc",
-            "duration": 1731
-          },
-          {
-            "name": "Csc",
-            "duration": 5355
-          },
-          {
-            "name": "Csc",
-            "duration": 5650
+            "duration": 2239
           }
         ]
       },
@@ -151,7 +151,7 @@
     {
       "type": "unityLinkerData",
       "msg": {
-        "build_event_id": "7323725dbb980445bb943747100c2ec5",
+        "build_event_id": "b9bcbe34fb3c04f9ea27e1c898de4385",
         "node_executed": true,
         "attribute_marked_count_always_link_assembly": 0,
         "attribute_swept_count_always_link_assembly": 0,
