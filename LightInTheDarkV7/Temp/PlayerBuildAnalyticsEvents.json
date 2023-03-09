@@ -3,7 +3,7 @@
     {
       "type": "il2cppData",
       "msg": {
-        "build_event_id": "b9bcbe34fb3c04f9ea27e1c898de4385",
+        "build_event_id": "a73104b150d6b4976a461f23b6ced1b3",
         "node_executed": true,
         "attribute_total_count_eager_static_constructor": 9,
         "attribute_total_count_set_option": 0,
@@ -40,109 +40,109 @@
     {
       "type": "playerBuildTimingData",
       "msg": {
-        "build_event_id": "b9bcbe34fb3c04f9ea27e1c898de4385",
-        "build_player": 1368042,
-        "preprocess_player": 223,
-        "produce_player_script_assemblies": 72261,
-        "build_scripts_dlls": 348,
-        "writing_asset_files": 574,
-        "postprocess_built_player": 1283623,
+        "build_event_id": "a73104b150d6b4976a461f23b6ced1b3",
+        "build_player": 1423610,
+        "preprocess_player": 47,
+        "produce_player_script_assemblies": 70171,
+        "build_scripts_dlls": 909,
+        "writing_asset_files": 806,
+        "postprocess_built_player": 1338222,
         "node_summary_table": [
           {
             "name": "Csc",
-            "duration": 7444
+            "duration": 4948
           },
           {
             "name": "Csc",
-            "duration": 11124
+            "duration": 11235
           },
           {
             "name": "Csc",
-            "duration": 3476
+            "duration": 4655
           },
           {
             "name": "Csc",
-            "duration": 3366
+            "duration": 1142
           },
           {
             "name": "Csc",
-            "duration": 1844
+            "duration": 990
           },
           {
             "name": "Csc",
-            "duration": 16021
+            "duration": 2607
           },
           {
             "name": "Csc",
-            "duration": 1045
+            "duration": 1049
           },
           {
             "name": "Csc",
-            "duration": 3414
+            "duration": 541
           },
           {
             "name": "Csc",
-            "duration": 809
+            "duration": 4866
           },
           {
             "name": "Csc",
-            "duration": 7411
+            "duration": 17380
           },
           {
             "name": "Csc",
-            "duration": 5189
+            "duration": 583
           },
           {
             "name": "Csc",
-            "duration": 3195
+            "duration": 3828
           },
           {
             "name": "Csc",
-            "duration": 4583
+            "duration": 1131
           },
           {
             "name": "Csc",
-            "duration": 738
+            "duration": 1421
           },
           {
             "name": "Csc",
-            "duration": 648
+            "duration": 995
           },
           {
             "name": "Csc",
-            "duration": 895
+            "duration": 3704
           },
           {
             "name": "Csc",
-            "duration": 858
+            "duration": 1084
           },
           {
             "name": "Csc",
-            "duration": 648
+            "duration": 4900
           },
           {
             "name": "Csc",
-            "duration": 2064
+            "duration": 3884
           },
           {
             "name": "Csc",
-            "duration": 993
+            "duration": 3256
           },
           {
             "name": "Csc",
-            "duration": 7458
+            "duration": 7025
           },
           {
             "name": "Csc",
-            "duration": 2492
+            "duration": 569
           },
           {
             "name": "Csc",
-            "duration": 934
+            "duration": 4358
           },
           {
             "name": "Csc",
-            "duration": 2239
+            "duration": 1209
           }
         ]
       },
@@ -151,7 +151,7 @@
     {
       "type": "unityLinkerData",
       "msg": {
-        "build_event_id": "b9bcbe34fb3c04f9ea27e1c898de4385",
+        "build_event_id": "a73104b150d6b4976a461f23b6ced1b3",
         "node_executed": true,
         "attribute_marked_count_always_link_assembly": 0,
         "attribute_swept_count_always_link_assembly": 0,

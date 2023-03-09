@@ -824,13 +824,6 @@
         {
             "managedAssemblyName": "Unity.InputSystem.dll",
             "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.InputSystem.Editor.InputActionEditorWindow",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Unity.InputSystem.dll",
-            "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.InputSystem.InputActionAsset",
             "moduleName": "",
             "usedInScenes": []

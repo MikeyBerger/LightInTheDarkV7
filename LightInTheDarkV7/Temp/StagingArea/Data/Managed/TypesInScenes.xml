@@ -20,7 +20,6 @@
 		<type fullname="SpinCoin" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.InputSystem">
-		<type fullname="UnityEngine.InputSystem.Editor.InputActionEditorWindow" preserve="nothing"/>
 		<type fullname="UnityEngine.InputSystem.InputActionAsset" preserve="nothing"/>
 		<type fullname="UnityEngine.InputSystem.InputSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.InputSystem.InputSystemObject" preserve="nothing"/>
